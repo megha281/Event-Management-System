@@ -1,1 +1,26 @@
-body { font-family: Arial; }
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #4b3f72;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+main {
+    padding: 25px;
+}
+
+.event-card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    border-left: 5px solid #4b3f72;
+}
